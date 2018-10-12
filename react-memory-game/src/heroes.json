@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Batman",
+        "image": "../images/batman.jpg"
+    },
+    {
+        "name": "Superman",
+        "image": "../images/superman.jpg"
+    },
+    {
+        "name": "Joker",
+        "image": "../images/joker.jpg"
+    },
+    {
+        "name": "Lex Luthor",
+        "image": "../images/lex.jpg"
+    },
+    {
+        "name": "Batwoman",
+        "image": "../images/batwoman.jpg"
+    },
+    {
+        "name": "Super Girl",
+        "image": "../images/supergirl.jpeg"
+    },
+    {
+        "name": "Aquaman",
+        "image": "../images/aquaman.jpg"
+    },
+    {
+        "name": "twoFace",
+        "image": "../images/twoFace.jpg"
+    },
+    {
+        "name": "Wonder Woman",
+        "image": "../images/wonderWoman.jpg"
+    },
+    {
+        "name": "flash",
+        "image": "../images/flash.jpg"
+    },
+    {
+        "name": "Alfred",
+        "image": "../images/alfred.jpg"
+    },
+    {
+        "name": "Green Arrow",
+        "image": "../images/greenArrow.jpg"
+    }
+
+]

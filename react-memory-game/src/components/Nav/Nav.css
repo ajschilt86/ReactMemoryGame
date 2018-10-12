@@ -14,3 +14,19 @@
     z-index: 99;
     white-space: nowrap;
 }
+
+.nav-bar a {
+    color: #fff;
+}
+
+.desc-normal {
+    color: #fff;
+}
+
+.desc-correct {
+    color: #0f0;
+}
+
+.desc-incorrect {
+    color: #f00;
+}
