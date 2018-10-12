@@ -3,7 +3,7 @@ import "./Nav.css";
 
 const Nav = props => (
     <div>
-        <ul className="nav nav-bar nav-justified">
+        <ul className="nav nav-bar justify-content-center">
             <li>
                 <a href="/">DC Universe Memory Game</a>
             </li>
