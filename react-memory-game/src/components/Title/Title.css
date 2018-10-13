@@ -1,13 +1,7 @@
 .titleBox {
-    background-image: url('/img/dogs_bg_denim.jpg');
-    background-size: 100%;
-    background-repeat: no-repeat;
     width: 100%;
     min-height: 178px;
     text-align: center;
-    vertical-align: center;
-    /* opacity: 0.3; */
-    /* filter: alpha(opacity=30); */
     font-family: 'Holtwood One SC', serif;
     color: #fff;
     text-shadow: 0 0 5px #000;
@@ -22,6 +16,12 @@
 
 .titleBox h6 {
     font-size: 1.8em;
-    color: black;
+    color: white;
+}
+
+@media screen and (max-width: 365px)  {
+    .titleBox {
+        margin-top: 42px;
+    }
 }
 

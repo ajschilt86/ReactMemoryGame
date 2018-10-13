@@ -4,8 +4,7 @@ import "./Card.css";
 const Card = props => (
     <div className="card">
         <div className="img-container">
-            <a onClick={() => props.selectHero(props.name)}>
-                <img alt={props.name} src={props.image}/>
+            <a onClick={() => props.selectHero(props.name)}><img alt={props.name} src={props.image}/>
             </a>
         </div>
     </div>
