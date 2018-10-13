@@ -12,7 +12,6 @@ const Nav = props => (
                 "desc-normal"}
             >
                 {props.message}
-
             </li>
             <li>
                 Score: <span>{props.curScore}</span> | Top Score: {props.topScore}
