@@ -33,7 +33,7 @@ class App extends Component {
 
     if (findHero === undefined) {
       this.setState({
-        message: "you guessed incorrectly",
+        message: "Try Again!",
         topScore: (this.state.curScore > this.state.topScore) ? this.state.curScore : this.state.topScore,
         curScore: 0,
         heroes: heroes,
@@ -43,7 +43,7 @@ class App extends Component {
       const newHeroes = this.state.unselectedHeroes.filter(character => character.name !== name);
 
       this.setState({
-        message: "you guessed correctly",
+        message: "Good Job!",
         curScore: this.state.curScore + 1,
         heroes: heroes,
         unselectedHeroes: newHeroes
