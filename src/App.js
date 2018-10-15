@@ -10,7 +10,7 @@ import Card from "./components/Card";
 
 class App extends Component {
   state = {
-    message: "Click an image to begin!",
+    message: "Click a hero to begin!",
     topScore: 0,
     curScore: 0,
     heroes: heroes,
