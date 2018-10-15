@@ -13,6 +13,8 @@
     font-weight: bold;
     z-index: 99;
     white-space: nowrap;
+    font-family: 'Wendy One', sans-serif;
+    padding-top: 10px;
 }
 
 .nav-bar li {
