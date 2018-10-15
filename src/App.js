@@ -20,7 +20,9 @@ class App extends Component {
   componentDidMount() {
 
   }
-
+// looked up es6 way to shuffle an array on stackoverflow
+// https://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array
+//swapping variables with decontruction
   randomizeArray = array => {
     for (let i = array.length - 1; i > 0; i--) {
       let j = Math.floor(Math.random() * (i + 1));
