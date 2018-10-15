@@ -46,6 +46,18 @@
     {
         "name": "Green Arrow",
         "image": "../images/greenArrow.jpg"
+    },
+    {
+        "name": "Cyborg",
+        "image": "../images/cyborg.png"
+    },
+    {
+        "name": "Commissioner Gordon",
+        "image": "../images/commissionerGordon.jpg"
+    },
+    {
+        "name": "Mr Freeze",
+        "image": "../images/mrFreeze.jpg"
     }
 
 ]
